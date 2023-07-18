@@ -5,7 +5,7 @@ const Project10 = () => {
   return (
     <div className="portfolio_content">
       <div class="card">
-      <a href="https://bitqueen.my.canva.site/namratha">
+      <a href="https://bitqueen.my.canva.site/namratha" target="_blank">
       <img className="image" src={require('../../assets//p10.png')} alt=""/>
         <div class="card-body">
           <h5 class="card-title">FOCAL - FOSSEE Summer Fellowship 2021 by IIT Bombay</h5>

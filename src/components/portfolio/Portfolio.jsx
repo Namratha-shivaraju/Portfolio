@@ -11,6 +11,9 @@ import Project8 from './Project8'
 import Project9 from './Project9'
 import Project10 from './Project10'
 import Project11 from './Project11'
+import Project12 from './Project12'
+import Project13 from './Project13'
+import Project14 from './Project14'
 
 const Portfolio = () => {
   return (
@@ -18,6 +21,9 @@ const Portfolio = () => {
       <h2 className="section_title">Portfolio</h2>
       <span className='section_subtitle'></span>
       <div className="portfolio_container container grid">
+        <Project12 />
+        <Project13 />
+        <Project14 />
         <Project />
         <Project3 />
         <Project8 />

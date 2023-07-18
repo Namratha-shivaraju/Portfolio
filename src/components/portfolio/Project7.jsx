@@ -5,7 +5,7 @@ const Project7 = () => {
   return (
     <div className="portfolio_content">
       <div class="card">
-      <a href="https://bitqueen.my.canva.site/namratha">
+      <a href="https://bitqueen.my.canva.site/namratha" target="_blank">
       <img className="image" src={require('../../assets//p7.png')} alt=""/>
         <div class="card-body">
           <h5 class="card-title">Massachusetts Institute of Technology (MIT) India Initiative 2020</h5>

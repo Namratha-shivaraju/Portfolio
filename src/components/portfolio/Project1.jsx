@@ -6,7 +6,7 @@ const Project1 = () => {
   return (
     <div className="portfolio_content">
       <div class="card">
-      <a href="https://bitqueen.my.canva.site/food-glorious-food">
+      <a href="https://bitqueen.my.canva.site/food-glorious-food" target="_blank">
       <img className="image" src={require('../../assets//p1.png')} alt=""/>
         <div class="card-body">
           <h5 class="card-title">Food, Glorious food<br></br><br></br></h5>

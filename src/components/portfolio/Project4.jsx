@@ -5,7 +5,7 @@ const Project4 = () => {
     <div className="portfolio_content">
       <div class="card">
 
-      <a href="https://bitqueen.my.canva.site/"> 
+      <a href="https://bitqueen.my.canva.site/" target="_blank"> 
         <img className="image" src={require('../../assets//p4.png')} alt=""/>
         <div class="card-body">
           <h5 class="card-title">Bit Queen</h5>

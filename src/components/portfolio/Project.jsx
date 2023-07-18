@@ -5,7 +5,7 @@ const Project = () => {
   return (
     <div className="portfolio_content">
       <div class="card">
-      <a href="https://c14harv.wixsite.com/my-site-2">
+      <a href="https://c14harv.wixsite.com/my-site-2" target="_blank">
       <img className="image" src={require('../../assets//p.png')} alt=""/>
         <div class="card-body">
           <h5 class="card-title">Leash.io</h5>

@@ -6,7 +6,7 @@ const Project2 = () => {
   return (
     <div className="portfolio_content">
       <div class="card">
-      <a href="https://bitqueen.my.canva.site/namratha">
+      <a href="https://bitqueen.my.canva.site/namratha" target="_blank">
       <img className="image" src={require('../../assets//p2.jpeg')} alt=""/>
         <div class="card-body">
           <h5 class="card-title">Anti-Money laundering analytics on the Bitcoin transactions</h5>

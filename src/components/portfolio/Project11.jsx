@@ -5,7 +5,7 @@ const Project11 = () => {
   return (
     <div className="portfolio_content">
       <div class="card">
-      <a href="https://medium.com/@nam07/seecarbon-c7fd67e4a051">
+      <a href="https://medium.com/@nam07/seecarbon-c7fd67e4a051" target="_blank">
       <img className="image" src={require('../../assets//p11.png')} alt=""/>
         <div class="card-body">
           <h5 class="card-title">SeeCarbon <br></br><br></br></h5>
