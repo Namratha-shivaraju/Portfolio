@@ -11,7 +11,7 @@ const Qualification = () => {
             <div className="qualification_sections">
                     <div className="qualification_data">
                         <div>
-                            <h3 className="qualification_title">Deloitte Application Studio (DAS) Intern</h3>
+                            <h3 className="qualification_title">Data Analyst Intern</h3>
                             <span className="qualification_subtitle">Deloitte USI, Bangalore</span>
                             <div className="qualification_calendar">
                                 <i className="uil uil-calendar-alt"></i> January 2022 - June 2022

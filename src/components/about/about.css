@@ -40,6 +40,7 @@
 
 .about_description {
     margin-bottom: var(--mb-2-5);
+    text-align: justify;
 }
 
 
