@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.7f112e5e.css",
-    "main.js": "/Portfolio/static/js/main.4f0cf304.js",
+    "main.css": "/Portfolio/static/css/main.1e375311.css",
+    "main.js": "/Portfolio/static/js/main.d113e0fa.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/p10.png": "/Portfolio/static/media/p10.089733676b7dba69ec7d.png",
     "static/media/p11.png": "/Portfolio/static/media/p11.ce9e6223e3dc4257e172.png",
@@ -14,16 +14,16 @@
     "static/media/p1.png": "/Portfolio/static/media/p1.885433ac058ca440ad51.png",
     "static/media/p4.png": "/Portfolio/static/media/p4.71d8be5a988193e2cf99.png",
     "static/media/p7.png": "/Portfolio/static/media/p7.04e31a05537740042f1e.png",
-    "static/media/Namratha_shivaraju_Resume.pdf": "/Portfolio/static/media/Namratha_shivaraju_Resume.4c4b6e5d3424ded76b6c.pdf",
+    "static/media/Namratha_shivaraju_Resume.pdf": "/Portfolio/static/media/Namratha_shivaraju_Resume.ef4ef4e53e7bf51934f3.pdf",
     "static/media/p2.jpeg": "/Portfolio/static/media/p2.d06fcbd6e96a3f5bfecc.jpeg",
     "static/media/p6.png": "/Portfolio/static/media/p6.5adff1ad9e043793b903.png",
     "index.html": "/Portfolio/index.html",
-    "main.7f112e5e.css.map": "/Portfolio/static/css/main.7f112e5e.css.map",
-    "main.4f0cf304.js.map": "/Portfolio/static/js/main.4f0cf304.js.map",
+    "main.1e375311.css.map": "/Portfolio/static/css/main.1e375311.css.map",
+    "main.d113e0fa.js.map": "/Portfolio/static/js/main.d113e0fa.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f112e5e.css",
-    "static/js/main.4f0cf304.js"
+    "static/css/main.1e375311.css",
+    "static/js/main.d113e0fa.js"
   ]
 }
