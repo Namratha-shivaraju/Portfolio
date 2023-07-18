@@ -1,29 +1,32 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1e375311.css",
-    "main.js": "/Portfolio/static/js/main.d113e0fa.js",
+    "main.js": "/Portfolio/static/js/main.830f9732.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/p10.png": "/Portfolio/static/media/p10.089733676b7dba69ec7d.png",
     "static/media/p11.png": "/Portfolio/static/media/p11.ce9e6223e3dc4257e172.png",
     "static/media/p5.png": "/Portfolio/static/media/p5.8872da7adca2ecb97994.png",
     "static/media/p8.png": "/Portfolio/static/media/p8.0f8a854138492d9d676f.png",
     "static/media/p9.png": "/Portfolio/static/media/p9.524d327d3d600cc2c533.png",
+    "static/media/p14.png": "/Portfolio/static/media/p14.7e54bdf6a6dd50a42b77.png",
     "static/media/p.png": "/Portfolio/static/media/p.68804dadb1b7c6a97075.png",
     "static/media/profile.jpeg": "/Portfolio/static/media/profile.aeac10177cceb68aa356.jpeg",
     "static/media/p3.png": "/Portfolio/static/media/p3.ce2f5a6a77bd45c579bc.png",
     "static/media/p1.png": "/Portfolio/static/media/p1.885433ac058ca440ad51.png",
+    "static/media/p13.png": "/Portfolio/static/media/p13.51e636d8b4822b1d8b48.png",
     "static/media/p4.png": "/Portfolio/static/media/p4.71d8be5a988193e2cf99.png",
     "static/media/p7.png": "/Portfolio/static/media/p7.04e31a05537740042f1e.png",
     "static/media/Namratha_shivaraju_Resume.pdf": "/Portfolio/static/media/Namratha_shivaraju_Resume.ef4ef4e53e7bf51934f3.pdf",
     "static/media/p2.jpeg": "/Portfolio/static/media/p2.d06fcbd6e96a3f5bfecc.jpeg",
     "static/media/p6.png": "/Portfolio/static/media/p6.5adff1ad9e043793b903.png",
+    "static/media/p12.png": "/Portfolio/static/media/p12.5fa0370ce32dc7a0ba3e.png",
     "index.html": "/Portfolio/index.html",
     "main.1e375311.css.map": "/Portfolio/static/css/main.1e375311.css.map",
-    "main.d113e0fa.js.map": "/Portfolio/static/js/main.d113e0fa.js.map",
+    "main.830f9732.js.map": "/Portfolio/static/js/main.830f9732.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e375311.css",
-    "static/js/main.d113e0fa.js"
+    "static/js/main.830f9732.js"
   ]
 }
